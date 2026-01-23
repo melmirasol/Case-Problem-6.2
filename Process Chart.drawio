@@ -8,10 +8,21 @@
           <mxGeometry height="480" width="816" x="4.547473508864641e-13" as="geometry" />
         </mxCell>
         <mxCell id="VZhG20-9Vwh5Yb3o1eV8-2" parent="VZhG20-9Vwh5Yb3o1eV8-1" style="swimlane;startSize=60;html=1;" value="Nursing Home" vertex="1">
-          <mxGeometry height="430" width="136" y="50" as="geometry" />
+          <mxGeometry height="430" width="136" y="50" as="geometry">
+            <mxRectangle height="430" width="40" y="50" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="VZhG20-9Vwh5Yb3o1eV8-17" parent="VZhG20-9Vwh5Yb3o1eV8-2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Prepare&amp;nbsp;&lt;div&gt;Medication List&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="10" y="70" as="geometry" />
+        <mxCell id="VZhG20-9Vwh5Yb3o1eV8-17" parent="VZhG20-9Vwh5Yb3o1eV8-2" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Prepare&amp;nbsp;&lt;div&gt;Medication List&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="8" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BUh5uv0skVguuEJW-9mA-3" parent="VZhG20-9Vwh5Yb3o1eV8-2" style="rounded=0;whiteSpace=wrap;html=1;" value="Send Medication List with Patient" vertex="1">
+          <mxGeometry height="60" width="120" x="7.999999999999545" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BUh5uv0skVguuEJW-9mA-4" edge="1" parent="VZhG20-9Vwh5Yb3o1eV8-2" source="VZhG20-9Vwh5Yb3o1eV8-17" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BUh5uv0skVguuEJW-9mA-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="389.99999999999955" y="280" as="sourcePoint" />
+            <mxPoint x="439.99999999999955" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BUh5uv0skVguuEJW-9mA-1" parent="VZhG20-9Vwh5Yb3o1eV8-1" style="swimlane;startSize=60;html=1;" value="Family/Caregiver" vertex="1">
           <mxGeometry height="430" width="136" x="136" y="50" as="geometry" />
