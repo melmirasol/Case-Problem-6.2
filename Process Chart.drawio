@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="Page-1" id="w062Xh1xD7AaX8Xc3aSt">
-    <mxGraphModel dx="1351" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="405" dy="271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,6 +139,19 @@
             <mxPoint x="-84" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BUh5uv0skVguuEJW-9mA-90" parent="VZhG20-9Vwh5Yb3o1eV8-10" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Is Faxed&amp;nbsp;&lt;div&gt;Medication List Readable&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="110" x="25" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="BUh5uv0skVguuEJW-9mA-92" parent="VZhG20-9Vwh5Yb3o1eV8-10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Administer Medications&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="BUh5uv0skVguuEJW-9mA-93" edge="1" parent="VZhG20-9Vwh5Yb3o1eV8-10" source="BUh5uv0skVguuEJW-9mA-90" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BUh5uv0skVguuEJW-9mA-92" value="YES">
+          <mxGeometry height="50" relative="1" width="50" x="-0.3333" y="16" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="-104" y="1540" as="sourcePoint" />
+            <mxPoint x="-54" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BUh5uv0skVguuEJW-9mA-6" edge="1" parent="VZhG20-9Vwh5Yb3o1eV8-1" source="BUh5uv0skVguuEJW-9mA-3" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BUh5uv0skVguuEJW-9mA-5" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="120" y="340" as="sourcePoint" />
@@ -221,6 +234,15 @@
             </Array>
             <mxPoint x="586" y="1200" as="sourcePoint" />
             <mxPoint x="686" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUh5uv0skVguuEJW-9mA-91" edge="1" parent="VZhG20-9Vwh5Yb3o1eV8-1" source="BUh5uv0skVguuEJW-9mA-86" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BUh5uv0skVguuEJW-9mA-90" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="1360" />
+            </Array>
+            <mxPoint x="546" y="1490" as="sourcePoint" />
+            <mxPoint x="596" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
