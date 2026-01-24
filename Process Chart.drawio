@@ -34,7 +34,7 @@
           <mxGeometry height="60" width="120" x="20" y="250" as="geometry" />
         </mxCell>
         <mxCell id="BUh5uv0skVguuEJW-9mA-24" parent="BUh5uv0skVguuEJW-9mA-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Correct Patient;&lt;div&gt;Request Staff find Medication List&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="20" y="560" as="geometry" />
+          <mxGeometry height="60" width="120" x="20" y="510" as="geometry" />
         </mxCell>
         <mxCell id="BUh5uv0skVguuEJW-9mA-31" parent="BUh5uv0skVguuEJW-9mA-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Call Nursing Home to get&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Medication List&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="650" as="geometry" />
@@ -151,9 +151,11 @@
             <mxPoint x="400" y="443" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BUh5uv0skVguuEJW-9mA-25" edge="1" parent="VZhG20-9Vwh5Yb3o1eV8-1" source="BUh5uv0skVguuEJW-9mA-24" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="BUh5uv0skVguuEJW-9mA-26" value="">
+        <mxCell id="BUh5uv0skVguuEJW-9mA-25" edge="1" parent="VZhG20-9Vwh5Yb3o1eV8-1" source="BUh5uv0skVguuEJW-9mA-24" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="BUh5uv0skVguuEJW-9mA-26" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="240" y="640" />
+            </Array>
             <mxPoint x="330" y="560" as="sourcePoint" />
             <mxPoint x="380" y="680" as="targetPoint" />
           </mxGeometry>
