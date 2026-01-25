@@ -146,6 +146,9 @@
         <mxCell id="glYU8UrDEZZ1m0I7ij0Z-17" parent="VZhG20-9Vwh5Yb3o1eV8-4" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Fax Medication List&amp;nbsp;&lt;div&gt;to In-Patient Unit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="1280" as="geometry" />
         </mxCell>
+        <mxCell id="glYU8UrDEZZ1m0I7ij0Z-27" parent="VZhG20-9Vwh5Yb3o1eV8-4" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="25" y="1950" as="geometry" />
+        </mxCell>
         <mxCell id="VZhG20-9Vwh5Yb3o1eV8-10" parent="VZhG20-9Vwh5Yb3o1eV8-1" style="swimlane;startSize=60;html=1;" value="In-Patient Unit&lt;div&gt;(Nursing)&lt;/div&gt;" vertex="1">
           <mxGeometry height="2270" width="160" x="640" y="50" as="geometry" />
         </mxCell>
@@ -188,13 +191,13 @@
             <mxPoint x="-64" y="1610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="glYU8UrDEZZ1m0I7ij0Z-10" edge="1" parent="VZhG20-9Vwh5Yb3o1eV8-10" source="glYU8UrDEZZ1m0I7ij0Z-4" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+        <mxCell id="glYU8UrDEZZ1m0I7ij0Z-10" edge="1" parent="VZhG20-9Vwh5Yb3o1eV8-10" source="glYU8UrDEZZ1m0I7ij0Z-4" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="glYU8UrDEZZ1m0I7ij0Z-28" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="80.5" y="1860" as="sourcePoint" />
             <mxPoint x="80" y="1950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="glYU8UrDEZZ1m0I7ij0Z-24" parent="VZhG20-9Vwh5Yb3o1eV8-10" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Administer&lt;div&gt;Medications&lt;/div&gt;" vertex="1">
+        <mxCell id="glYU8UrDEZZ1m0I7ij0Z-28" parent="VZhG20-9Vwh5Yb3o1eV8-10" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" value="Administer Medications" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="1950" as="geometry" />
         </mxCell>
         <mxCell id="BUh5uv0skVguuEJW-9mA-6" edge="1" parent="VZhG20-9Vwh5Yb3o1eV8-1" source="BUh5uv0skVguuEJW-9mA-3" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BUh5uv0skVguuEJW-9mA-5" value="">
