@@ -153,7 +153,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="glYU8UrDEZZ1m0I7ij0Z-80" parent="VZhG20-9Vwh5Yb3o1eV8-4" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Hospital&amp;nbsp;&lt;div&gt;System&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="110" x="30" y="1950" as="geometry" />
+          <mxGeometry height="60" width="110" x="25" y="1950" as="geometry" />
         </mxCell>
         <mxCell id="VZhG20-9Vwh5Yb3o1eV8-10" parent="VZhG20-9Vwh5Yb3o1eV8-1" style="swimlane;startSize=50;html=1;" value="In-Patient Unit&lt;div&gt;(Nursing)&lt;/div&gt;" vertex="1">
           <mxGeometry height="2290" width="160" x="640" y="30" as="geometry" />
