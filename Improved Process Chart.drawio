@@ -80,7 +80,7 @@
         <mxCell id="4Dq5-A0iEwL-QKuBpD1R-24" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;whiteSpace=wrap;" value="Emergency Department (ED) -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Clinical&amp;nbsp;Staff&lt;/span&gt;" vertex="1">
           <mxGeometry height="1120" width="160" x="480" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="PXcL5s3eV8icKo2HEPVD-14" parent="4Dq5-A0iEwL-QKuBpD1R-24" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Receive&amp;nbsp;&lt;div&gt;Transfer Packet&lt;/div&gt;" vertex="1">
+        <mxCell id="PXcL5s3eV8icKo2HEPVD-14" parent="4Dq5-A0iEwL-QKuBpD1R-24" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Receive&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Transfer Packet and Document Receipt&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="330" as="geometry" />
         </mxCell>
         <mxCell id="PXcL5s3eV8icKo2HEPVD-39" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-24" source="PXcL5s3eV8icKo2HEPVD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PXcL5s3eV8icKo2HEPVD-33">
