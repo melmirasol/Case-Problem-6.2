@@ -57,7 +57,7 @@
         <mxCell id="glYU8UrDEZZ1m0I7ij0Z-18" parent="BUh5uv0skVguuEJW-9mA-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Write down Medication List&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="1770" as="geometry" />
         </mxCell>
-        <mxCell id="glYU8UrDEZZ1m0I7ij0Z-20" parent="BUh5uv0skVguuEJW-9mA-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Provide copy to&amp;nbsp;&lt;div&gt;In-Patient Unit&lt;/div&gt;" vertex="1">
+        <mxCell id="glYU8UrDEZZ1m0I7ij0Z-20" parent="BUh5uv0skVguuEJW-9mA-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Provide copy to&amp;nbsp;&lt;div&gt;In-Patient Unit;&lt;/div&gt;&lt;div&gt;Keep copies&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="1860" as="geometry" />
         </mxCell>
         <mxCell id="glYU8UrDEZZ1m0I7ij0Z-21" edge="1" parent="BUh5uv0skVguuEJW-9mA-1" source="glYU8UrDEZZ1m0I7ij0Z-18" style="endArrow=classic;html=1;rounded=0;exitX=0.492;exitY=0.883;exitDx=0;exitDy=0;exitPerimeter=0;" target="glYU8UrDEZZ1m0I7ij0Z-20" value="">
