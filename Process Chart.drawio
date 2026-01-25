@@ -215,7 +215,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="glYU8UrDEZZ1m0I7ij0Z-30" parent="VZhG20-9Vwh5Yb3o1eV8-10" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Overnight" vertex="1">
-          <mxGeometry height="60" width="120" x="20" y="1950" as="geometry" />
+          <mxGeometry height="60" width="90" x="35" y="1950" as="geometry" />
         </mxCell>
         <mxCell id="glYU8UrDEZZ1m0I7ij0Z-33" edge="1" parent="VZhG20-9Vwh5Yb3o1eV8-10" source="glYU8UrDEZZ1m0I7ij0Z-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="glYU8UrDEZZ1m0I7ij0Z-30">
           <mxGeometry relative="1" as="geometry" />
