@@ -37,10 +37,10 @@
         <mxCell id="PXcL5s3eV8icKo2HEPVD-6" parent="4Dq5-A0iEwL-QKuBpD1R-3" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="Can&amp;nbsp;&lt;div&gt;hospital receive electronic&amp;nbsp;&lt;/div&gt;&lt;div&gt;MAR?&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="120" x="20" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="PXcL5s3eV8icKo2HEPVD-7" parent="4Dq5-A0iEwL-QKuBpD1R-3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Send electronic MAR&lt;div&gt;to hospital&lt;/div&gt;" vertex="1">
+        <mxCell id="PXcL5s3eV8icKo2HEPVD-7" parent="4Dq5-A0iEwL-QKuBpD1R-3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Send electronic&amp;nbsp;&lt;div&gt;MAR&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;to hospital&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="21" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="PXcL5s3eV8icKo2HEPVD-34" parent="4Dq5-A0iEwL-QKuBpD1R-3" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Wait for MAR confirmation" vertex="1">
+        <mxCell id="PXcL5s3eV8icKo2HEPVD-34" parent="4Dq5-A0iEwL-QKuBpD1R-3" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Wait for hospital confirmation" vertex="1">
           <mxGeometry height="60" width="121" x="20" y="460" as="geometry" />
         </mxCell>
         <mxCell id="PXcL5s3eV8icKo2HEPVD-35" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-3" source="PXcL5s3eV8icKo2HEPVD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="PXcL5s3eV8icKo2HEPVD-34">
@@ -59,6 +59,9 @@
             <mxPoint x="-16" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PXcL5s3eV8icKo2HEPVD-52" parent="4Dq5-A0iEwL-QKuBpD1R-3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Provide&amp;nbsp;&lt;div&gt;complete MAR&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="550" as="geometry" />
+        </mxCell>
         <mxCell id="4Dq5-A0iEwL-QKuBpD1R-10" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;" value="Caregiver/Family" vertex="1">
           <mxGeometry height="1120" width="160" x="160" y="30" as="geometry" />
         </mxCell>
@@ -68,17 +71,17 @@
         <mxCell id="PXcL5s3eV8icKo2HEPVD-10" parent="4Dq5-A0iEwL-QKuBpD1R-20" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Transport Patient&lt;div&gt;with Transfer Packet&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="PXcL5s3eV8icKo2HEPVD-12" parent="4Dq5-A0iEwL-QKuBpD1R-20" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Handoff&amp;nbsp;&lt;div&gt;Transfer Packet&lt;/div&gt;" vertex="1">
+        <mxCell id="PXcL5s3eV8icKo2HEPVD-12" parent="4Dq5-A0iEwL-QKuBpD1R-20" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Hand-off Patient and Transfer Packet&lt;div&gt;to Emergency Department&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="240" as="geometry" />
         </mxCell>
         <mxCell id="PXcL5s3eV8icKo2HEPVD-13" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-20" source="PXcL5s3eV8icKo2HEPVD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PXcL5s3eV8icKo2HEPVD-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PXcL5s3eV8icKo2HEPVD-44" parent="4Dq5-A0iEwL-QKuBpD1R-20" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Receive&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Document&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Receipt&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="122" x="20" y="330" as="geometry" />
-        </mxCell>
         <mxCell id="4Dq5-A0iEwL-QKuBpD1R-24" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;whiteSpace=wrap;" value="Emergency Department (ED) -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Clinical&amp;nbsp;Staff&lt;/span&gt;" vertex="1">
           <mxGeometry height="1120" width="160" x="480" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PXcL5s3eV8icKo2HEPVD-44" parent="4Dq5-A0iEwL-QKuBpD1R-24" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Receive&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Document&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Receipt&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="122" x="-140" y="330" as="geometry" />
         </mxCell>
         <mxCell id="PXcL5s3eV8icKo2HEPVD-14" parent="4Dq5-A0iEwL-QKuBpD1R-24" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Receive&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Transfer Packet and Document Receipt&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="330" as="geometry" />
@@ -102,16 +105,27 @@
         <mxCell id="PXcL5s3eV8icKo2HEPVD-33" parent="4Dq5-A0iEwL-QKuBpD1R-24" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Call Nursing Home to get complete MAR" vertex="1">
           <mxGeometry height="60" width="120" x="21" y="550" as="geometry" />
         </mxCell>
+        <mxCell id="PXcL5s3eV8icKo2HEPVD-46" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-24" source="PXcL5s3eV8icKo2HEPVD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="PXcL5s3eV8icKo2HEPVD-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4Dq5-A0iEwL-QKuBpD1R-43" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;" value="In-Patient Unit&lt;div&gt;(Nursing)&lt;/div&gt;" vertex="1">
           <mxGeometry height="1120" width="160" x="640" y="30" as="geometry" />
         </mxCell>
         <mxCell id="PXcL5s3eV8icKo2HEPVD-11" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-2" source="PXcL5s3eV8icKo2HEPVD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PXcL5s3eV8icKo2HEPVD-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PXcL5s3eV8icKo2HEPVD-45" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-2" source="PXcL5s3eV8icKo2HEPVD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="PXcL5s3eV8icKo2HEPVD-14">
+        <mxCell id="PXcL5s3eV8icKo2HEPVD-51" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-2" source="PXcL5s3eV8icKo2HEPVD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PXcL5s3eV8icKo2HEPVD-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PXcL5s3eV8icKo2HEPVD-46" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-2" source="PXcL5s3eV8icKo2HEPVD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="PXcL5s3eV8icKo2HEPVD-44">
+        <mxCell id="PXcL5s3eV8icKo2HEPVD-54" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-2" source="PXcL5s3eV8icKo2HEPVD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;jumpStyle=arc;" target="PXcL5s3eV8icKo2HEPVD-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="406" y="430" />
+              <mxPoint x="406" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PXcL5s3eV8icKo2HEPVD-57" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-2" source="PXcL5s3eV8icKo2HEPVD-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="PXcL5s3eV8icKo2HEPVD-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
