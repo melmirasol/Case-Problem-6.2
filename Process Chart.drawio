@@ -170,10 +170,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BUh5uv0skVguuEJW-9mA-92" parent="VZhG20-9Vwh5Yb3o1eV8-10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Administer Medications&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="25" y="1860" as="geometry" />
+          <mxGeometry height="60" width="120" x="20" y="1860" as="geometry" />
         </mxCell>
         <mxCell id="glYU8UrDEZZ1m0I7ij0Z-4" parent="VZhG20-9Vwh5Yb3o1eV8-10" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Wait for patient&#39;s Medication List" vertex="1">
-          <mxGeometry height="60" width="100" x="30" y="1590" as="geometry" />
+          <mxGeometry height="60" width="100" x="30" y="1770" as="geometry" />
         </mxCell>
         <mxCell id="glYU8UrDEZZ1m0I7ij0Z-5" edge="1" parent="VZhG20-9Vwh5Yb3o1eV8-10" source="BUh5uv0skVguuEJW-9mA-94" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="glYU8UrDEZZ1m0I7ij0Z-4" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -299,6 +299,12 @@
             </Array>
             <mxPoint x="66" y="1950" as="sourcePoint" />
             <mxPoint x="116" y="1900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="glYU8UrDEZZ1m0I7ij0Z-9" edge="1" parent="VZhG20-9Vwh5Yb3o1eV8-1" source="glYU8UrDEZZ1m0I7ij0Z-6" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="glYU8UrDEZZ1m0I7ij0Z-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="536" y="1910" as="sourcePoint" />
+            <mxPoint x="586" y="1860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
