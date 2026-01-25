@@ -1,9 +1,29 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="Page-1" id="mOO5BkWbup9xQxr_ssZy">
-    <mxGraphModel>
+    <mxGraphModel dx="1216" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4Dq5-A0iEwL-QKuBpD1R-2" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=30;html=1;shadow=1;" value="Improved Medication Reconciliation During Nursing Home–to–Hospital Transfer (ED to Inpatient Admission)" vertex="1">
+          <mxGeometry height="1150" width="800" x="14" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4Dq5-A0iEwL-QKuBpD1R-3" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;" value="Nursing Home" vertex="1">
+          <mxGeometry height="1120" width="160" y="30" as="geometry">
+            <mxRectangle height="430" width="40" y="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Dq5-A0iEwL-QKuBpD1R-10" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;" value="Caregiver/Family" vertex="1">
+          <mxGeometry height="1120" width="160" x="160" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Dq5-A0iEwL-QKuBpD1R-20" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;" value="EMS/Ambulance Crew" vertex="1">
+          <mxGeometry height="1120" width="160" x="320" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Dq5-A0iEwL-QKuBpD1R-24" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;whiteSpace=wrap;" value="Emergency Department (ED) -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Clinical&amp;nbsp;Staff&lt;/span&gt;" vertex="1">
+          <mxGeometry height="1120" width="160" x="480" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Dq5-A0iEwL-QKuBpD1R-43" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;" value="In-Patient Unit&lt;div&gt;(Nursing)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="1120" width="160" x="640" y="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
