@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="glYU8UrDEZZ1m0I7ij0Z-80" parent="VZhG20-9Vwh5Yb3o1eV8-4" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Hospital&amp;nbsp;&lt;div&gt;System&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="70" x="50" y="1950" as="geometry" />
+          <mxGeometry height="60" width="70" x="45" y="2220" as="geometry" />
         </mxCell>
         <mxCell id="glYU8UrDEZZ1m0I7ij0Z-118" parent="VZhG20-9Vwh5Yb3o1eV8-4" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;Fax Medication List&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;t&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;o In-Patient Unit&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="15" y="1280" as="geometry" />
