@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="Page-1" id="mOO5BkWbup9xQxr_ssZy">
-    <mxGraphModel dx="1216" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="901" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4Dq5-A0iEwL-QKuBpD1R-2" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=30;html=1;shadow=1;" value="Improved Medication Reconciliation During Nursing Home–to–Hospital Transfer (ED to Inpatient Admission)" vertex="1">
-          <mxGeometry height="1150" width="960" x="14" y="10" as="geometry" />
+          <mxGeometry height="1150" width="800" x="14" y="10" as="geometry" />
         </mxCell>
         <mxCell id="4Dq5-A0iEwL-QKuBpD1R-3" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;" value="Nursing Home" vertex="1">
           <mxGeometry height="1120" width="160" y="30" as="geometry">
@@ -15,52 +15,47 @@
         <mxCell id="PXcL5s3eV8icKo2HEPVD-1" parent="4Dq5-A0iEwL-QKuBpD1R-3" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Prepare Medication&lt;div&gt;Administration Record&lt;/div&gt;&lt;div&gt;(MAR)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="140" x="10" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="PXcL5s3eV8icKo2HEPVD-5" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-3" source="PXcL5s3eV8icKo2HEPVD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="PXcL5s3eV8icKo2HEPVD-6">
+        <mxCell id="PXcL5s3eV8icKo2HEPVD-2" parent="4Dq5-A0iEwL-QKuBpD1R-3" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Create Sealed Transfer Packet&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="122" x="19" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="PXcL5s3eV8icKo2HEPVD-68" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-3" source="PXcL5s3eV8icKo2HEPVD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="PXcL5s3eV8icKo2HEPVD-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="186" y="200" />
+              <mxPoint x="186" y="400" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PXcL5s3eV8icKo2HEPVD-2" parent="4Dq5-A0iEwL-QKuBpD1R-3" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Create Sealed Transfer Packet&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="122" x="19" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="PXcL5s3eV8icKo2HEPVD-3" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-3" source="PXcL5s3eV8icKo2HEPVD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="PXcL5s3eV8icKo2HEPVD-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PXcL5s3eV8icKo2HEPVD-8" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-3" source="PXcL5s3eV8icKo2HEPVD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PXcL5s3eV8icKo2HEPVD-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PXcL5s3eV8icKo2HEPVD-9" connectable="0" parent="PXcL5s3eV8icKo2HEPVD-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="YES" vertex="1">
-          <mxGeometry relative="1" x="-0.4375" y="-1" as="geometry">
-            <mxPoint x="15" as="offset" />
+        <mxCell id="PXcL5s3eV8icKo2HEPVD-71" connectable="0" parent="PXcL5s3eV8icKo2HEPVD-68" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="YES" vertex="1">
+          <mxGeometry relative="1" x="-0.9338" y="2" as="geometry">
+            <mxPoint x="-8" y="22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PXcL5s3eV8icKo2HEPVD-6" parent="4Dq5-A0iEwL-QKuBpD1R-3" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="Can&amp;nbsp;&lt;div&gt;hospital receive electronic&amp;nbsp;&lt;/div&gt;&lt;div&gt;MAR?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="120" x="20" y="240" as="geometry" />
+          <mxGeometry height="100" width="120" x="19" y="150" as="geometry" />
         </mxCell>
         <mxCell id="PXcL5s3eV8icKo2HEPVD-7" parent="4Dq5-A0iEwL-QKuBpD1R-3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Send electronic&amp;nbsp;&lt;div&gt;MAR&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;to hospital&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="21" y="370" as="geometry" />
+          <mxGeometry height="60" width="120" x="20" y="370" as="geometry" />
         </mxCell>
         <mxCell id="PXcL5s3eV8icKo2HEPVD-34" parent="4Dq5-A0iEwL-QKuBpD1R-3" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Wait for hospital confirmation" vertex="1">
-          <mxGeometry height="60" width="121" x="20" y="460" as="geometry" />
+          <mxGeometry height="60" width="121" x="19" y="460" as="geometry" />
         </mxCell>
         <mxCell id="PXcL5s3eV8icKo2HEPVD-35" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-3" source="PXcL5s3eV8icKo2HEPVD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="PXcL5s3eV8icKo2HEPVD-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PXcL5s3eV8icKo2HEPVD-36" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-3" source="PXcL5s3eV8icKo2HEPVD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" target="PXcL5s3eV8icKo2HEPVD-34">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="186" y="290" />
-              <mxPoint x="186" y="490" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PXcL5s3eV8icKo2HEPVD-38" connectable="0" parent="PXcL5s3eV8icKo2HEPVD-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
-          <mxGeometry relative="1" x="-0.8213" y="-2" as="geometry">
-            <mxPoint x="-16" y="-12" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PXcL5s3eV8icKo2HEPVD-52" parent="4Dq5-A0iEwL-QKuBpD1R-3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Provide&amp;nbsp;&lt;div&gt;complete MAR&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="20" y="550" as="geometry" />
+          <mxGeometry height="60" width="120" x="19" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="PXcL5s3eV8icKo2HEPVD-62" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-3" source="PXcL5s3eV8icKo2HEPVD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="PXcL5s3eV8icKo2HEPVD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PXcL5s3eV8icKo2HEPVD-67" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-3" source="PXcL5s3eV8icKo2HEPVD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="PXcL5s3eV8icKo2HEPVD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PXcL5s3eV8icKo2HEPVD-69" connectable="0" parent="PXcL5s3eV8icKo2HEPVD-67" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.2903" y="-1" as="geometry">
+            <mxPoint x="17" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4Dq5-A0iEwL-QKuBpD1R-10" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;" value="Caregiver/Family" vertex="1">
           <mxGeometry height="1120" width="160" x="160" y="30" as="geometry" />
@@ -125,24 +120,13 @@
         <mxCell id="4Dq5-A0iEwL-QKuBpD1R-43" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;" value="In-Patient Unit&lt;div&gt;(Nursing)&lt;/div&gt;" vertex="1">
           <mxGeometry height="1120" width="160" x="640" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="PXcL5s3eV8icKo2HEPVD-61" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;" value="In-Patient Unit&lt;div&gt;(Nursing)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="1120" width="160" x="800" y="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PXcL5s3eV8icKo2HEPVD-11" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-2" source="PXcL5s3eV8icKo2HEPVD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PXcL5s3eV8icKo2HEPVD-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PXcL5s3eV8icKo2HEPVD-51" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-2" source="PXcL5s3eV8icKo2HEPVD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PXcL5s3eV8icKo2HEPVD-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PXcL5s3eV8icKo2HEPVD-54" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-2" source="PXcL5s3eV8icKo2HEPVD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;jumpStyle=arc;" target="PXcL5s3eV8icKo2HEPVD-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="406" y="430" />
-              <mxPoint x="406" y="500" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PXcL5s3eV8icKo2HEPVD-57" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-2" source="PXcL5s3eV8icKo2HEPVD-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="PXcL5s3eV8icKo2HEPVD-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PXcL5s3eV8icKo2HEPVD-72" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-2" source="PXcL5s3eV8icKo2HEPVD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="PXcL5s3eV8icKo2HEPVD-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
