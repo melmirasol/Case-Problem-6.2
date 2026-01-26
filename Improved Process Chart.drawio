@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="Page-1" id="mOO5BkWbup9xQxr_ssZy">
-    <mxGraphModel dx="1737" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1280" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -306,7 +306,7 @@
             <mxPoint x="88" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hr8uQ0xnFdwlndq4zPq4-155" parent="Hr8uQ0xnFdwlndq4zPq4-53" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Administer only time-critical medications&lt;/span&gt;" vertex="1">
+        <mxCell id="Hr8uQ0xnFdwlndq4zPq4-155" parent="Hr8uQ0xnFdwlndq4zPq4-53" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Hard Stop.&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Administer only time-critical medications&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="28" y="590" as="geometry" />
         </mxCell>
         <mxCell id="Hr8uQ0xnFdwlndq4zPq4-160" parent="Hr8uQ0xnFdwlndq4zPq4-53" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Sign and Release&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Reconciled Orders&lt;/span&gt;&lt;/div&gt;" vertex="1">
@@ -378,14 +378,16 @@
         <mxCell id="Hr8uQ0xnFdwlndq4zPq4-192" parent="Hr8uQ0xnFdwlndq4zPq4-58" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;Receive Patient;&lt;/div&gt;&lt;div&gt;Verify Med Rec Status as Complete&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="830" as="geometry" />
         </mxCell>
-        <mxCell id="Hr8uQ0xnFdwlndq4zPq4-226" edge="1" parent="Hr8uQ0xnFdwlndq4zPq4-58" source="Hr8uQ0xnFdwlndq4zPq4-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Hr8uQ0xnFdwlndq4zPq4-223">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Hr8uQ0xnFdwlndq4zPq4-226" edge="1" parent="Hr8uQ0xnFdwlndq4zPq4-58" source="Hr8uQ0xnFdwlndq4zPq4-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="Hr8uQ0xnFdwlndq4zPq4-256">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="1010" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hr8uQ0xnFdwlndq4zPq4-211" parent="Hr8uQ0xnFdwlndq4zPq4-58" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;Note Shift Handoff&amp;nbsp; with Med Rec Status&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="920" as="geometry" />
         </mxCell>
-        <mxCell id="Hr8uQ0xnFdwlndq4zPq4-223" parent="Hr8uQ0xnFdwlndq4zPq4-58" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;Administer Medications&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="20" y="1010" as="geometry" />
+        <mxCell id="Hr8uQ0xnFdwlndq4zPq4-256" parent="Hr8uQ0xnFdwlndq4zPq4-58" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Administer&amp;nbsp;&lt;div&gt;Medications based on reconciled orders&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="10" y="1010" as="geometry" />
         </mxCell>
         <mxCell id="Hr8uQ0xnFdwlndq4zPq4-149" edge="1" parent="Hr8uQ0xnFdwlndq4zPq4-46" source="Hr8uQ0xnFdwlndq4zPq4-100" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="Hr8uQ0xnFdwlndq4zPq4-141">
           <mxGeometry relative="1" as="geometry">
