@@ -38,6 +38,9 @@
         <mxCell id="Hr8uQ0xnFdwlndq4zPq4-4" parent="4Dq5-A0iEwL-QKuBpD1R-10" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;Arrive at&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Emergency Department&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="240" as="geometry" />
         </mxCell>
+        <mxCell id="Hr8uQ0xnFdwlndq4zPq4-258" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-10" source="Hr8uQ0xnFdwlndq4zPq4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Hr8uQ0xnFdwlndq4zPq4-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Hr8uQ0xnFdwlndq4zPq4-18" parent="4Dq5-A0iEwL-QKuBpD1R-10" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Wait for Hospital Confirmation" vertex="1">
           <mxGeometry height="60" width="100" x="30" y="330" as="geometry" />
         </mxCell>
