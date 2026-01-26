@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4Dq5-A0iEwL-QKuBpD1R-2" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=30;html=1;shadow=1;" value="Improved Medication Reconciliation During Nursing Home–to–Hospital Transfer (ED to Inpatient Admission)" vertex="1">
-          <mxGeometry height="1150" width="800" x="14" y="10" as="geometry" />
+          <mxGeometry height="1150" width="1120" x="14" y="10" as="geometry" />
         </mxCell>
         <mxCell id="4Dq5-A0iEwL-QKuBpD1R-3" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;" value="Nursing Home" vertex="1">
           <mxGeometry height="1120" width="160" y="30" as="geometry">
@@ -64,7 +64,7 @@
           <mxGeometry height="1120" width="160" x="320" y="30" as="geometry" />
         </mxCell>
         <mxCell id="PXcL5s3eV8icKo2HEPVD-10" parent="4Dq5-A0iEwL-QKuBpD1R-20" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Transport Patient to Emergency" vertex="1">
-          <mxGeometry height="60" width="120" x="20" y="280" as="geometry" />
+          <mxGeometry height="60" width="120" x="20" y="160" as="geometry" />
         </mxCell>
         <mxCell id="PXcL5s3eV8icKo2HEPVD-12" parent="4Dq5-A0iEwL-QKuBpD1R-20" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Hand-off Patient and Transfer Packet&lt;div&gt;to Emergency Department&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="19" y="500" as="geometry" />
@@ -73,7 +73,7 @@
           <mxGeometry height="60" width="122" x="19" y="590" as="geometry" />
         </mxCell>
         <mxCell id="PXcL5s3eV8icKo2HEPVD-73" parent="4Dq5-A0iEwL-QKuBpD1R-20" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="Is&lt;div&gt;MAR legible&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;and&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;complete?&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="120" x="19" y="370" as="geometry" />
+          <mxGeometry height="100" width="120" x="19" y="250" as="geometry" />
         </mxCell>
         <mxCell id="PXcL5s3eV8icKo2HEPVD-74" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-20" source="PXcL5s3eV8icKo2HEPVD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="PXcL5s3eV8icKo2HEPVD-73">
           <mxGeometry relative="1" as="geometry" />
@@ -117,11 +117,17 @@
         <mxCell id="PXcL5s3eV8icKo2HEPVD-58" parent="4Dq5-A0iEwL-QKuBpD1R-24" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Scan/upload MAR to Hospital System" vertex="1">
           <mxGeometry height="60" width="120" x="21" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="4Dq5-A0iEwL-QKuBpD1R-43" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;" value="In-Patient Unit&lt;div&gt;(Nursing)&lt;/div&gt;" vertex="1">
+        <mxCell id="4Dq5-A0iEwL-QKuBpD1R-43" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;whiteSpace=wrap;" value="Pharmacy/Medical Reconciliation Team" vertex="1">
           <mxGeometry height="1120" width="160" x="640" y="30" as="geometry" />
         </mxCell>
         <mxCell id="PXcL5s3eV8icKo2HEPVD-72" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-2" source="PXcL5s3eV8icKo2HEPVD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;jumpStyle=arc;" target="PXcL5s3eV8icKo2HEPVD-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PXcL5s3eV8icKo2HEPVD-75" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;" value="Inpatient Provider&lt;div&gt;(MD/NP/PA)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="1120" width="160" x="800" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PXcL5s3eV8icKo2HEPVD-76" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;" value="Inpatient Unit&lt;div&gt;(Nursing)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="1120" width="160" x="960" y="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
