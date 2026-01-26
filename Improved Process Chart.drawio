@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4Dq5-A0iEwL-QKuBpD1R-2" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=30;html=1;shadow=1;" value="Improved Medication Reconciliation During Nursing Home–to–Hospital Transfer (ED to Inpatient Admission)" vertex="1">
-          <mxGeometry height="1150" width="800" x="14" y="10" as="geometry" />
+          <mxGeometry height="1150" width="960" x="14" y="10" as="geometry" />
         </mxCell>
         <mxCell id="4Dq5-A0iEwL-QKuBpD1R-3" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;" value="Nursing Home" vertex="1">
           <mxGeometry height="1120" width="160" y="30" as="geometry">
@@ -124,6 +124,9 @@
         </mxCell>
         <mxCell id="4Dq5-A0iEwL-QKuBpD1R-43" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;" value="In-Patient Unit&lt;div&gt;(Nursing)&lt;/div&gt;" vertex="1">
           <mxGeometry height="1120" width="160" x="640" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PXcL5s3eV8icKo2HEPVD-61" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;" value="In-Patient Unit&lt;div&gt;(Nursing)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="1120" width="160" x="800" y="30" as="geometry" />
         </mxCell>
         <mxCell id="PXcL5s3eV8icKo2HEPVD-11" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-2" source="PXcL5s3eV8icKo2HEPVD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PXcL5s3eV8icKo2HEPVD-10">
           <mxGeometry relative="1" as="geometry" />
