@@ -41,7 +41,7 @@
         <mxCell id="Hr8uQ0xnFdwlndq4zPq4-18" parent="4Dq5-A0iEwL-QKuBpD1R-10" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Wait for Hospital Confirmation" vertex="1">
           <mxGeometry height="60" width="100" x="30" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="Hr8uQ0xnFdwlndq4zPq4-28" parent="4Dq5-A0iEwL-QKuBpD1R-10" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Collect Family Confirmation" vertex="1">
+        <mxCell id="Hr8uQ0xnFdwlndq4zPq4-28" parent="4Dq5-A0iEwL-QKuBpD1R-10" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Confirm Medications, Allergies, Adverse Reactions" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="950" as="geometry" />
         </mxCell>
         <mxCell id="4Dq5-A0iEwL-QKuBpD1R-20" parent="4Dq5-A0iEwL-QKuBpD1R-2" style="swimlane;startSize=50;html=1;" value="EMS/Ambulance Crew" vertex="1">
@@ -134,7 +134,7 @@
         <mxCell id="Hr8uQ0xnFdwlndq4zPq4-27" parent="4Dq5-A0iEwL-QKuBpD1R-24" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="Does&lt;div&gt;Patient have a Caregiver&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="120" x="30" y="820" as="geometry" />
         </mxCell>
-        <mxCell id="Hr8uQ0xnFdwlndq4zPq4-35" parent="4Dq5-A0iEwL-QKuBpD1R-24" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Collect Family Confirmation" vertex="1">
+        <mxCell id="Hr8uQ0xnFdwlndq4zPq4-35" parent="4Dq5-A0iEwL-QKuBpD1R-24" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Collect Caregiver Confirmation" vertex="1">
           <mxGeometry height="60" width="120" x="30" y="950" as="geometry" />
         </mxCell>
         <mxCell id="Hr8uQ0xnFdwlndq4zPq4-40" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-24" source="Hr8uQ0xnFdwlndq4zPq4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="Hr8uQ0xnFdwlndq4zPq4-26">
