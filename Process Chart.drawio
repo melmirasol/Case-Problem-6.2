@@ -205,7 +205,7 @@
             <mxPoint x="66" y="1830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="glYU8UrDEZZ1m0I7ij0Z-28" parent="VZhG20-9Vwh5Yb3o1eV8-10" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" value="Administer Obsolete Medications" vertex="1">
+        <mxCell id="glYU8UrDEZZ1m0I7ij0Z-28" parent="VZhG20-9Vwh5Yb3o1eV8-10" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" value="Administer Medications" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="1860" as="geometry" />
         </mxCell>
         <mxCell id="glYU8UrDEZZ1m0I7ij0Z-55" parent="VZhG20-9Vwh5Yb3o1eV8-10" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=default;dashed=1;dashPattern=1 4;" value="&lt;i&gt;Not Specified&lt;/i&gt;" vertex="1">
@@ -233,7 +233,7 @@
             <mxPoint x="-13" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AAECWXz35XT-nDWqlBRn-2" parent="VZhG20-9Vwh5Yb3o1eV8-10" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Electronic&amp;nbsp;&lt;div&gt;Health Record&lt;/div&gt;" vertex="1">
+        <mxCell id="AAECWXz35XT-nDWqlBRn-2" parent="VZhG20-9Vwh5Yb3o1eV8-10" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Medication Record" vertex="1">
           <mxGeometry height="60" width="100" x="30" y="1950" as="geometry" />
         </mxCell>
         <mxCell id="AAECWXz35XT-nDWqlBRn-3" edge="1" parent="VZhG20-9Vwh5Yb3o1eV8-10" source="glYU8UrDEZZ1m0I7ij0Z-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" target="AAECWXz35XT-nDWqlBRn-2">
