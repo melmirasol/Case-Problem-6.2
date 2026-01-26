@@ -71,6 +71,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Hr8uQ0xnFdwlndq4zPq4-10" connectable="0" parent="PXcL5s3eV8icKo2HEPVD-60" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="YES" vertex="1">
+          <mxGeometry relative="1" x="-0.5498" y="2" as="geometry">
+            <mxPoint x="-38" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PXcL5s3eV8icKo2HEPVD-27" parent="4Dq5-A0iEwL-QKuBpD1R-24" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="Is&lt;div&gt;MAR legible&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;and&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;complete?&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="120" x="20" y="420" as="geometry" />
         </mxCell>
@@ -78,9 +83,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="81" y="480" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="PXcL5s3eV8icKo2HEPVD-59" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-24" source="PXcL5s3eV8icKo2HEPVD-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PXcL5s3eV8icKo2HEPVD-58">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PXcL5s3eV8icKo2HEPVD-33" parent="4Dq5-A0iEwL-QKuBpD1R-24" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Call Nursing Home to get complete MAR" vertex="1">
           <mxGeometry height="60" width="120" x="21" y="550" as="geometry" />
@@ -106,7 +108,7 @@
             <mxPoint x="139" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hr8uQ0xnFdwlndq4zPq4-8" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-2" source="PXcL5s3eV8icKo2HEPVD-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="PXcL5s3eV8icKo2HEPVD-58">
+        <mxCell id="Hr8uQ0xnFdwlndq4zPq4-9" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-2" source="PXcL5s3eV8icKo2HEPVD-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" target="PXcL5s3eV8icKo2HEPVD-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
