@@ -400,7 +400,7 @@
         <mxCell id="Hr8uQ0xnFdwlndq4zPq4-262" edge="1" parent="Hr8uQ0xnFdwlndq4zPq4-53" source="Hr8uQ0xnFdwlndq4zPq4-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Hr8uQ0xnFdwlndq4zPq4-261">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hr8uQ0xnFdwlndq4zPq4-259" parent="Hr8uQ0xnFdwlndq4zPq4-53" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;Send reconciled med summary copy to Patient Caregiver&lt;/div&gt;" vertex="1">
+        <mxCell id="Hr8uQ0xnFdwlndq4zPq4-259" parent="Hr8uQ0xnFdwlndq4zPq4-53" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;Send copy&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;of reconciled med summary to&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Patient Caregiver&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="170" y="830" as="geometry" />
         </mxCell>
         <mxCell id="Hr8uQ0xnFdwlndq4zPq4-261" parent="Hr8uQ0xnFdwlndq4zPq4-53" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;horizontal=1;fontColor=#333333;" value="C" vertex="1">
