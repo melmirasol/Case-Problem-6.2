@@ -209,9 +209,9 @@
         <mxCell id="Hr8uQ0xnFdwlndq4zPq4-46" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=30;html=1;shadow=1;" value="Improved Medication Reconciliation During Nursing Home–to–Hospital Transfer (ED to Inpatient Admission)" vertex="1">
           <mxGeometry height="1150" width="800" x="14" y="1179" as="geometry" />
         </mxCell>
-        <mxCell id="Hr8uQ0xnFdwlndq4zPq4-47" parent="Hr8uQ0xnFdwlndq4zPq4-46" style="swimlane;startSize=50;html=1;" value="Pharmacy/&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Medication&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Reconciliation Team&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Hr8uQ0xnFdwlndq4zPq4-47" parent="Hr8uQ0xnFdwlndq4zPq4-46" style="swimlane;startSize=50;html=1;gradientColor=none;" value="Pharmacy/&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Medication&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Reconciliation Team&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="1120" width="320" y="30" as="geometry">
-            <mxRectangle height="430" width="40" y="50" as="alternateBounds" />
+            <mxRectangle height="1120" width="40" y="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hr8uQ0xnFdwlndq4zPq4-50" edge="1" parent="Hr8uQ0xnFdwlndq4zPq4-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;">
