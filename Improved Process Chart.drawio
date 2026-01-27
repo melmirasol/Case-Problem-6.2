@@ -18,7 +18,7 @@
         <mxCell id="PXcL5s3eV8icKo2HEPVD-2" parent="4Dq5-A0iEwL-QKuBpD1R-3" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Create Sealed Transfer Packet&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="122" x="19" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="Xr4PBTt-b3ZbC0UL9nFZ-3" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="PXcL5s3eV8icKo2HEPVD-7">
+        <mxCell id="Xr4PBTt-b3ZbC0UL9nFZ-3" edge="1" parent="4Dq5-A0iEwL-QKuBpD1R-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="79" y="520" as="sourcePoint" />
           </mxGeometry>
@@ -207,7 +207,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hr8uQ0xnFdwlndq4zPq4-46" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=30;html=1;shadow=1;" value="Improved Medication Reconciliation During Nursing Home–to–Hospital Transfer (ED to Inpatient Admission)" vertex="1">
-          <mxGeometry height="1150" width="800" x="841" y="10" as="geometry" />
+          <mxGeometry height="1150" width="800" x="14" y="1179" as="geometry" />
         </mxCell>
         <mxCell id="Hr8uQ0xnFdwlndq4zPq4-47" parent="Hr8uQ0xnFdwlndq4zPq4-46" style="swimlane;startSize=50;html=1;" value="Pharmacy/&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Medication&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Reconciliation Team&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="1120" width="320" y="30" as="geometry">
