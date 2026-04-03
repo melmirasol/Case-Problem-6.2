@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.3.8">
+  <diagram name="Page-1" id="6feSxRkiZgXC4Rx6vVNi">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vmira3XC0EkiWcNOLrDm-1" connectable="0" parent="1" style="group;fontSize=22;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="190" y="250.00000000000023" as="geometry" />
+        </mxCell>
+        <mxCell id="vmira3XC0EkiWcNOLrDm-2" parent="vmira3XC0EkiWcNOLrDm-1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.half_circle;direction=west;labelPosition=center;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=22;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="40" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vmira3XC0EkiWcNOLrDm-3" parent="vmira3XC0EkiWcNOLrDm-1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.half_circle;direction=east;labelPosition=center;align=center;fillColor=#b0e3e6;strokeColor=#0e8088;fontSize=22;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="40" width="80" y="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
